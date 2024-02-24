@@ -1,2 +1,1 @@
-# Chinese-landscape-painting-dataset
-Chinese landscape painting dataset
+# 示例
