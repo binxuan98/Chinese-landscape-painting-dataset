@@ -10,28 +10,17 @@
 
 ### 四尺条幅示例
 
-<p float="left">
-  <img src="data/00014-3148548998.png" class="img-with-margin" />
-  <img src="data/00045-3148549029.png" class="img-with-margin" />
-  <img src="data/00058-3148549042.png" class="img-with-margin" />
-  <img src="data/00368-3148549352.png" class="img-with-margin" />
-</p>
 
-<style>
-.img-with-margin {
-  width: 20%;
-  margin-right: 5%;
-  transition: transform 0.2s;
-}
 
-.img-with-margin:hover {
-  transform: scale(1.1);
-}
+<table>
+  <tr>
+    <td><img src="data/00014-3148548998.png" width="200" /></td>
+    <td><img src="data/00045-3148549029.png" width="200" /></td>
+    <td><img src="data/00058-3148549042.png" width="200" /></td>
+    <td><img src="data/00368-3148549352.png" width="200" /></td>
+  </tr>
+</table>
 
-.img-with-margin:last-child {
-  margin-right: 0;
-}
-</style>
 
 ### 黄金分割比例尺寸示例
 
